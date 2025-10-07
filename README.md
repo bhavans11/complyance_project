@@ -10,7 +10,7 @@
 ### Prerequisites
 - Node.js (v16+ recommended)
 - npm
-- (Optional) sqlite3 CLI
+- sqlite3 CLI
 
 ### Install & run backend
 ```bash
